@@ -1,3 +1,5 @@
+# Use this to determine the weak (linear) aspects of the sbox.
+
 class LinearApproximator
   def self.determine_best
     matches = {}
